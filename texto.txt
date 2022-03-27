@@ -1,3 +1,0 @@
-Hello word
-
-Editando esse arquivo localmente
